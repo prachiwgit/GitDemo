@@ -1,0 +1,45 @@
+telugu - done
+tamil -done
+bengali - done
+gujarati - done
+kannada - done
+malayalee - done
+marathi - done
+odia - done
+punjabi - done
+muslim - done
+parsi --done
+christian --done
+sikh --done
+agarwal --done
+sunni - done
+nair --done
+kayastha ---done
+reddy --done
+brahmin ---done
+lingayat
+buddhist--done
+jain--done
+arora --not found
+assamese--done
+gupta---done
+jat---done
+khatri----done
+kunbi---done
+padmashali---done
+patel --done
+shwetamber-- done
+teli
+catholic
+ezhava
+gowda
+gursikh
+kamma
+kapu
+kashyap
+maratha
+nadar
+protestant
+rajput
+shia
+yadav
